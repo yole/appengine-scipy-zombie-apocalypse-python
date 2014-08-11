@@ -4,7 +4,7 @@ Copyright (C) 2010-2014 Google Inc.
 This sample is inspired by a [Zombie Apocalypse ODEINT demo][1] listed
 in the [Scipy Cookbook][2].
 
-It demos use of the `apt_get_install` directive in the `app.yaml` file to load `python-numpy`, `python-scipy`, and `python-matplotlib`.
+It demos use of the `apt_get_install` directive in the `app.yaml` file to load `python-numpy`, `python-scipy`, and `python-matplotlib`, which are Python binary packages.
 
 ## Deploying
 
